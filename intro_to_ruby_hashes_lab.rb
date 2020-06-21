@@ -31,9 +31,9 @@ monopoly = {
 	  :railroads => {
 	    :pieces => 4, 
 	    :names => {
-	      :reading_railraod => {}, 
-	      :pennsylvania_railraod => {}, 
-	      :b_and_o_railraod => {},
+	      :reading_railroad => {}, 
+	      :pennsylvania_railroad => {}, 
+	      :b_and_o_railroad => {},
 	      :shortline => {}
 	    }, 
 	    :rent_in_dollars => {
